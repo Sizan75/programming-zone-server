@@ -15,7 +15,7 @@ app.get('/courses', (req,res)=>{
 });
 app.get('/courses/:id', (req,res)=>{
     const id=req.params.id;
-        const course= news.find(c => c._id === id)
+        const course= courses.find(c => c._id === id)
         res.send(course) 
     })
 app.listen(port, ()=>{
