@@ -21,8 +21,8 @@ app.get('/courses/:id', (req, res) => {
 
 app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
-    const course = courses.find(c => c._id == id)
-    res.send(course)
+    const checkout = courses.find(course => course._id == id)
+    res.send(checkout)
 })
 
 app.listen(port, () => {
