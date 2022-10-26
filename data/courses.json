@@ -5,6 +5,11 @@
         "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
         "duration":"20hr",
         "rating": 4.5,
+        "total_reviewed": 240,
+        "total_student": 256,
+        "language":"english",
+        "total_lesson": 25,
+        "instructor":"MD.Saki", 
         "price": 40
     },
     {
@@ -13,6 +18,11 @@
         "picture": "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png",
         "duration":"45hr",
         "rating": 5,
+        "total_reviewed": 260,
+        "total_student": 296,
+        "language":"english",
+        "total_lesson": 29,
+        "instructor":"MD.Ador hayder",
         "price": 80
     },
     {
@@ -21,6 +31,11 @@
         "picture": "https://miro.medium.com/max/725/1*P8aGpuAxcVXgO4m7cByVtA.jpeg",
         "duration":"43hr",
         "rating": 4.7,
+        "total_reviewed": 200,
+        "total_student": 250,
+        "language":"english",
+        "total_lesson": 25,
+        "instructor":"MD.Nowshad Alam",
         "price": 65
     }
     ,
@@ -30,6 +45,11 @@
         "picture": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
         "duration":"56hr",
         "rating": 4.9,
+        "total_reviewed": 300,
+        "total_student": 350,
+        "language":"Bangla",
+        "total_lesson": 25,
+        "instructor":"Rushan",
         "price": 50
     }
     ,
@@ -39,6 +59,11 @@
         "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
         "duration":"33hr",
         "rating": 4.5,
+        "total_reviewed": 440,
+        "total_student": 505,
+        "language":"English",
+        "total_lesson": 35,
+        "instructor":"Rayan Chowdhury",
         "price": 70
     }
     ,
@@ -48,6 +73,11 @@
         "picture": "https://www.educative.io/v2api/editorpage/5295407815458816/image/4810048073629696",
         "duration":"36hr",
         "rating": 4,
+        "total_reviewed": 270,
+        "total_student": 308,
+        "language":"English",
+        "total_lesson": 45,
+        "instructor":"Rafan Amin",
         "price": 40
     }
 ]
